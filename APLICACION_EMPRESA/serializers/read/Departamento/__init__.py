@@ -1,0 +1,2 @@
+from .SerializadorDetalleDepartamento import SerializadorDetalleDepartamento
+from .SerializadorListaDepartamento import SerializadorListaDepartamento

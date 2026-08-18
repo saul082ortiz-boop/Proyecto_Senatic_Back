@@ -1,0 +1,2 @@
+from .SerializadorActualizarTipoIdentificacion import SerializadorActualizarTipoIdentificacion
+from .SerializadorCrearTipoIdentificacion import SerializadorCrearTipoIdentificacion

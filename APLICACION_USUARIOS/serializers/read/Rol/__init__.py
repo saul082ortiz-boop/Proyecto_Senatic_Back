@@ -1,0 +1,2 @@
+from .SerializadorDetalleRol import SerializadorDetalleRol
+from .SerializadorListaRol import SerializadorListaRol

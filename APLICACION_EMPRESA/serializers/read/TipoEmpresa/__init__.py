@@ -1,0 +1,2 @@
+from .SerializadorDetalleTipoEmpresa import SerializadorDetalleTipoEmpresa
+from .SerializadorListaTipoEmpresa import SerializadorListaTipoEmpresa

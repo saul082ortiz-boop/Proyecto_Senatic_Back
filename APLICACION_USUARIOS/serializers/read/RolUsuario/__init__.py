@@ -1,0 +1,2 @@
+from .SerializadorDetalleRolUsuario import SerializadorDetalleRolUsuario
+from .SerializadorListaRolUsuario import SerializadorListaRolUsuario
